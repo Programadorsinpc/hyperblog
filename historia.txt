@@ -1,5 +1,6 @@
 Pagina de prueba
 
-Esto es una prueba 
+Esto es una prueba, y esto acaba de editarse
+Hola
 
 Salu2
