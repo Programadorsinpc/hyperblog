@@ -3,7 +3,7 @@ Hyperblog este es un ejemplo del archivo readme.md
 >Permite diseñar textos llamativos
 >Saludos
 
-##Diseño
+## Diseño
 * Diseño simple en HTML
 * Buenas practicas(casi)
 * Colores
