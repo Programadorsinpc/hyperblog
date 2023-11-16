@@ -1,7 +1,6 @@
 Pagina de prueba
 
-Esto es una prueba, y esto acaba de editarse
-Hola
+Se edita este texto para verificar que se crea la rama cabecera "header" en github
 
 Salu2
 
