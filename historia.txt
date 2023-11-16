@@ -2,6 +2,12 @@ Pagina de prueba
 
 Se edita este texto para verificar que se crea la rama cabecera "header" en github
 
+Main 1
+
 Salu2
+
+git stash es para guardar cambios temporalmente, 
+git stash list revisa la lista guardada
+git stash drop elimina la lista
 
 En esta parte se hara un good night word
