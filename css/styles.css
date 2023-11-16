@@ -42,3 +42,13 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    font-family: roboto;
+    border-radius: 20px;
+    padding: 0.5em;
+}
