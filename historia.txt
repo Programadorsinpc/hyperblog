@@ -7,7 +7,10 @@ Main 1
 Salu2
 
 git stash es para guardar cambios temporalmente, 
+git stash branch <nuevarama> para crear una rama con los cambios guardados 
 git stash list revisa la lista guardada
 git stash drop elimina la lista
+
+git cherry-pick es para traer un commit ya hecho, util para mandar pruebas 
 
 En esta parte se hara un good night word
