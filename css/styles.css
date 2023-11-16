@@ -50,3 +50,13 @@ body
     padding: 1em;
     background: white;
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    font-family: roboto;
+    border-radius: 20px;
+    padding: 0.5em;
+}
