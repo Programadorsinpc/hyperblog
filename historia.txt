@@ -2,6 +2,8 @@ Pagina de prueba
 
 Se edita este texto para verificar que se crea la rama cabecera "header" en github
 
+Se agregara una historia cada vez que sea necesario :v
+
 Salu2
 
 En esta parte se hara un good night word
